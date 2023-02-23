@@ -31,7 +31,7 @@ void PrintArray(int[,] array2D)
     }
 }
 
-string FindArithm(int[,] array)
+string FindArithmSum(int[,] array)
 {
     double res = 0;
     string result = "Среднее арифметическое число каждoго столбца: ";
@@ -58,4 +58,4 @@ Console.Clear();
 int[,] inArray = GetArray(5, 5, -10, 10);
 PrintArray(inArray);
 Console.WriteLine();
-Console.WriteLine(FindArithm(inArray));
+Console.WriteLine(FindArithmSum(inArray));
