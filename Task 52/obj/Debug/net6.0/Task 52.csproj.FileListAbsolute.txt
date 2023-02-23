@@ -1,0 +1,15 @@
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\bin\Debug\net6.0\Task 52.exe
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\bin\Debug\net6.0\Task 52.deps.json
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\bin\Debug\net6.0\Task 52.runtimeconfig.json
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\bin\Debug\net6.0\Task 52.dll
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\bin\Debug\net6.0\Task 52.pdb
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.csproj.AssemblyReference.cache
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.AssemblyInfoInputs.cache
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.AssemblyInfo.cs
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.csproj.CoreCompileInputs.cache
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.dll
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\refint\Task 52.dll
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.pdb
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\Task 52.genruntimeconfig.cache
+C:\Users\Лебедев Андрей\Desktop\GB Tasks\Task 52\obj\Debug\net6.0\ref\Task 52.dll
